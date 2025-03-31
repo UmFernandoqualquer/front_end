@@ -2,6 +2,11 @@ body{
     background:#ffffff
 }
 
+.principal{
+    background: #ffffff;
+    padding: 30px;
+}
+
 #banner{
     width: 100%;
 }
@@ -20,4 +25,15 @@ p{
 
 em strong{
     color:#5d00a8
+}
+.itens{
+    font-style: italic;
+}
+
+.beneficios{
+    background: #ffffff;
+    padding: 20px;
+}
+h2{
+    text-align: center;
 }
