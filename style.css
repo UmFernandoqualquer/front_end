@@ -130,4 +130,19 @@ td, th{
     border: 1px solid #000000;
     padding: 8px 15px;
 }
+.banner{
+    width: 100%;  
+}
+.tiulo-principal{
+  text-align: center; 
+  font-size: 2em; 
+  margin: 0 0 1em;
+  clear: left;
+}
+.principal p{
+    margin: 0 0 1em;
+}
+.principal strong{
+    font-weight: bold;
+}
 
