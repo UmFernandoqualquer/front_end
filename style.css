@@ -184,6 +184,6 @@ margin: 1em auto;
 .itens{
     line-height: 1.5;
 }
-.itens: :first-child{
- font-weigth: bold
+.itens:first-child{
+   font-weight: bold
 }
